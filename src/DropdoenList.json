@@ -1,0 +1,10 @@
+[
+    {
+        "option":"Orders",
+        "value":"/orders"
+    },
+    {
+        "option":"WishList",
+        "value":"/wishlist"
+    }
+]
